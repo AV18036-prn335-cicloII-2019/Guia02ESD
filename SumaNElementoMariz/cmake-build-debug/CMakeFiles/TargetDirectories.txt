@@ -1,0 +1,3 @@
+/home/dany/CLionProjects/SumaNElementoMariz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dany/CLionProjects/SumaNElementoMariz/cmake-build-debug/CMakeFiles/SumaNElementoMariz.dir
+/home/dany/CLionProjects/SumaNElementoMariz/cmake-build-debug/CMakeFiles/edit_cache.dir

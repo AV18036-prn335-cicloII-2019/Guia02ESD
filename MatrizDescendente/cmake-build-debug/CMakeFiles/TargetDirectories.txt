@@ -1,0 +1,3 @@
+/home/dany/CLionProjects/MatrizDescendente/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dany/CLionProjects/MatrizDescendente/cmake-build-debug/CMakeFiles/MatrizDescendente.dir
+/home/dany/CLionProjects/MatrizDescendente/cmake-build-debug/CMakeFiles/edit_cache.dir

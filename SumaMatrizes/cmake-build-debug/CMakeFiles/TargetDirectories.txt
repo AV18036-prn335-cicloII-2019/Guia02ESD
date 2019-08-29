@@ -1,0 +1,3 @@
+/home/dany/CLionProjects/SumaMatrizes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dany/CLionProjects/SumaMatrizes/cmake-build-debug/CMakeFiles/SumaMatrizes.dir
+/home/dany/CLionProjects/SumaMatrizes/cmake-build-debug/CMakeFiles/edit_cache.dir
